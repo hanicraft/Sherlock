@@ -1,0 +1,18 @@
+#discovering subdomains
+import discover_subdomains_and_urls
+
+subdomains, urls = discover_subdomains_and_urls("example.com")
+print(subdomains)
+print(urls)
+
+#brute forcing
+import brute_force_password
+
+password = brute_force_password("http://example.com/login.php", "passwords.txt")
+print(password)
+
+#crawling urls
+import crawl
+
+crawl("http://example.com")
+
