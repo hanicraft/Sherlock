@@ -1,6 +1,6 @@
 # Sherlock
 
-a spider with bruteforcing tool that unleashes the power of web
+a spider with bruteforcing tool that unleashes the power of web created in python 3.10
 
 # features
 
